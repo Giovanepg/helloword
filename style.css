@@ -8,8 +8,8 @@ body{
 
 h1{
 
-    color: aqua;
-    background-color: brown;
+    color: rgb(255, 0, 38);
+    background-color: rgb(250, 243, 243);
     padding: 1rem;
-    border-radius: 5px;
+    border-radius: 10px;
 }
