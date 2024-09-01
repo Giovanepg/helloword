@@ -1,21 +1,45 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: black;
-    height: 94vh;
+    color: #00FF00;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    overflow: hidden;
 }
 
-div {
-    background-color: blueviolet;
-    border-radius: 10%;
+h1 {
+    margin: 0;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.2); 
+    border-radius: 10px;
+}
 
+
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 94vh;
+    font-family: 'Press Start 2P', cursive;
+    background-image: url("https://conteudo.imguol.com.br/c/entretenimento/70/2021/05/25/codigo-binario-1621982130311_v2_1x1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
 }
 
 h1{
-
-    color: rgb(255, 0, 38);
-    background-color: rgb(250, 243, 243);
-    padding: 1rem;
-    border-radius: 10px;
+    color: #00FF00;
 }
+*/
